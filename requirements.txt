@@ -1,2 +1,2 @@
-ultralytics>=8.4,<9
+ultralytics>=8.4.188,<9
 opencv-python>=4.12,<5
